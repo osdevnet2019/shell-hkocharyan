@@ -1,0 +1,2 @@
+run: 
+	./ishell.py
